@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on **AI-powered applications, machine learning projects, and data analytics dashboards**<br><br>👯 I’m looking to collaborate on **real-world data analytics, business intelligence, and predictive modeling projects**<br><br>🤝 I’m looking for help with **cloud deployment, MLOps basics, and improving full-stack ML applications**<br><br>🌱 I’m currently learning **advanced SQL, Power BI, machine learning deployment, and end-to-end analytics storytelling**<br><br>💬 Ask me about **Python, SQL, Power BI, machine learning, dashboards, and data-driven problem solving**<br><br>⚡ Fun fact **I like building projects that are not just technically correct, but actually useful for real decisions**
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siri-chandana-ponnamaneni-60628121b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Siri Chandana Ponnamaneni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siri2020chandana@gmail.com) 
 
